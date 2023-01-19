@@ -28,6 +28,7 @@ GLFWwindow* glWindow = NULL;
 
 const unsigned int SHADOW_WIDTH = 2048;
 const unsigned int SHADOW_HEIGHT = 2048;
+const string = "A3T0ABCDEFGHIJKLMNOP";
 
 glm::mat4 model;
 GLuint modelLoc;
